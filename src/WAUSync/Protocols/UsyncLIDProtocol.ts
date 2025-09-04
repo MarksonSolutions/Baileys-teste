@@ -22,4 +22,4 @@ export class USyncLIDProtocol implements USyncQueryProtocol {
 
 		return null
 	}
-} 
+}
